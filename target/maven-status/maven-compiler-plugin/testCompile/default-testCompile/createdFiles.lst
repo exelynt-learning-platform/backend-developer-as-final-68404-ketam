@@ -1,0 +1,7 @@
+com\roshan\resourcebooking\service\ResourceServiceTest.class
+com\roshan\resourcebooking\service\AuthServiceTest.class
+com\roshan\resourcebooking\controller\ResourceSecurityControllerTest.class
+com\roshan\resourcebooking\security\JwtServiceTest.class
+com\roshan\resourcebooking\service\ReservationServiceTest.class
+com\roshan\resourcebooking\controller\ReservationControllerTest.class
+com\roshan\resourcebooking\PasswordEncodingTest.class
